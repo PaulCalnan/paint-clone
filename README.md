@@ -1,7 +1,8 @@
 # JavaScript Project
 # Simple Paint Clone
 
-MSPaint clone project, sourced via a JavaScript tutorial.
+MS Paint clone project, interesting use of Javascript, HTML and CSS.
+sourced via a JavaScript tutorial.
 
 #### Built with:
 
@@ -17,6 +18,7 @@ MSPaint clone project, sourced via a JavaScript tutorial.
 ## Requirements
 
 - Internet browser - Preferably Chrome.
+- Screen size larger than 800 pixels.
 
 ## Installation
 
